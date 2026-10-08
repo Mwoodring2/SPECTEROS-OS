@@ -1,0 +1,12 @@
+# Phase 0K acceptance
+- [ ] DATA visibly leans/focuses then recovers
+- [ ] CHARGE braces and recoils
+- [ ] STABILIZE rises and holds
+- [ ] PLAY has obvious squash/spring/landing
+- [ ] OBSERVE/SCAN has readable focus pose
+- [ ] CHIRP bounces
+- [ ] sleep subtly breathes/hovers
+- [ ] FX remain attached to moving body
+- [ ] body size never changes
+- [ ] direction remains correct
+- [ ] no flicker / 8-bit buffer preserved
